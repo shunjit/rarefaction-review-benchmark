@@ -1,0 +1,112 @@
+# Citation File Format (CFF) specification
+# https://citation-file-format.github.io/
+#
+# This file provides machine-readable citation information for this repository.
+# GitHub automatically parses this file to display citation information.
+
+cff-version: 1.2.0
+
+title: "Rarefaction Review Benchmark: Reproducibility Package"
+
+message: >-
+  If you use this software or data, please cite the associated manuscript
+  and this repository.
+
+type: software
+
+authors:
+  - family-names: Tokoro
+    given-names: Shunji
+    orcid: "https://orcid.org/0009-0003-8042-9869"
+    affiliation: "Gifu University of Medical Science"
+
+repository-code: "https://github.com/shunjit/rarefaction-review-benchmark"
+
+url: "https://github.com/shunjit/rarefaction-review-benchmark"
+
+abstract: >-
+  Reproducibility package for the manuscript "Rarefaction in QIIME 2 workflows:
+  when it is justified for diversity, when it is harmful for differential
+  abundance, and how to report it reproducibly". This repository contains all
+  scripts, metadata, and documentation required to reproduce the benchmark
+  analyses evaluating rarefaction practices for microbiome diversity analysis
+  using three public 16S rRNA amplicon datasets.
+
+keywords:
+  - microbiome
+  - rarefaction
+  - QIIME2
+  - 16S rRNA
+  - diversity analysis
+  - reproducibility
+  - benchmark
+
+license: MIT
+
+# NOTE: Update version and date-released upon paper acceptance
+version: "1.0.0"
+
+date-released: "2026-02-02"
+
+# Preferred citation for the manuscript
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Tokoro
+      given-names: Shunji
+      orcid: "https://orcid.org/0009-0003-8042-9869"
+  title: >-
+    Rarefaction in QIIME 2 workflows: when it is justified for diversity,
+    when it is harmful for differential abundance, and how to report it
+    reproducibly
+  journal: "ISME Communications"
+  year: 2026
+  # The following fields should be updated upon publication:
+  # volume: "X"
+  # issue: "X"
+  # start: "X"
+  # end: "X"
+  # doi: "10.1038/s43705-XXX-XXXXX-X"
+
+# References to key dependencies and related works
+references:
+  - type: article
+    authors:
+      - family-names: Schloss
+        given-names: Patrick D.
+    title: >-
+      Rarefaction is currently the best approach to control for uneven
+      sequencing effort in amplicon sequence analyses
+    journal: "mSphere"
+    year: 2024
+    volume: "9"
+    doi: "10.1128/msphere.00354-23"
+
+  - type: article
+    authors:
+      - family-names: Bolyen
+        given-names: Evan
+      - name: "et al."
+    title: >-
+      Reproducible, interactive, scalable and extensible microbiome data
+      science using QIIME 2
+    journal: "Nature Biotechnology"
+    year: 2019
+    volume: "37"
+    start: "852"
+    end: "857"
+    doi: "10.1038/s41587-019-0209-9"
+
+  - type: article
+    authors:
+      - family-names: Raspet
+        given-names: Isaiah
+      - name: "et al."
+    title: >-
+      Facilitating bootstrapped and rarefaction-based microbiome diversity
+      analysis with q2-boots
+    journal: "F1000Research"
+    year: 2025
+    volume: "14"
+    start: "87"
+    doi: "10.12688/f1000research.157758.1"

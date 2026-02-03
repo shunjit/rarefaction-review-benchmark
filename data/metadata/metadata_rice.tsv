@@ -1,0 +1,499 @@
+sample-id	alias	compartment	env_biome	plant_id	cultivar	collection_date	geo_loc_name
+SRR1523640	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1523641	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1523649	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524309	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524310	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524311	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524312	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524331	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524332	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524333	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524334	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524335	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524336	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524337	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524338	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524339	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524340	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524341	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524342	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524343	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524344	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524345	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524346	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524347	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524348	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524349	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524350	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524351	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524352	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524353	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524354	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524355	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524356	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1523636	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1523635	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1523634	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524358	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524359	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524360	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524361	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524362	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524363	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524364	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524365	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524366	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524367	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524368	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524369	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524370	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524371	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524380	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524382	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524383	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524384	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524385	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524386	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524388	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524389	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524390	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524391	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524392	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524393	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524394	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524395	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524396	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524397	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524398	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524399	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524400	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524401	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524402	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524403	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524404	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524405	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524406	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524407	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524408	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524409	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524410	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524411	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524412	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524413	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524414	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524415	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524416	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524417	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524418	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524419	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524420	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524421	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524422	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524423	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524424	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524425	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524426	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524427	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524428	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524429	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524430	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524431	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524432	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524433	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524434	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524435	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524436	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524437	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524438	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524439	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524440	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524441	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524442	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524443	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524444	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524445	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524446	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524447	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524448	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524449	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524450	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524451	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524452	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524453	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524454	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524455	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524456	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524457	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524458	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524459	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524460	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524461	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524462	GHRun2	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524463	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524464	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524465	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524466	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524467	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524468	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524469	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524471	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524472	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524473	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524474	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524475	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524476	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524477	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524478	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524479	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524480	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524481	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524540	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524541	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524542	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524559	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524560	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524561	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524562	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524563	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524564	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524565	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524566	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524567	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524568	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524569	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524570	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524571	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524572	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524573	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524574	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524575	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524576	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524577	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524578	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524579	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524580	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524581	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524582	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524583	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524584	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524585	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524586	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524587	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524588	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524589	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524590	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524591	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524592	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524593	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524594	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524595	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524596	SAMN02929777	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524597	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524598	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524599	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524600	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524601	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524602	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524603	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524604	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524605	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524606	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524607	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524608	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524609	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524610	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524611	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524612	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524613	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524614	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524615	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524616	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524617	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524618	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524619	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524620	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524621	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524622	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524623	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524624	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524625	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524626	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524627	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524628	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524629	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524630	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524631	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524632	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524633	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524634	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524635	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524636	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524637	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524638	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524639	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524640	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524641	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524642	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524643	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524644	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524645	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524646	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524647	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524648	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524649	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524650	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524651	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524652	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524653	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524654	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524655	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524656	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524657	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524658	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524659	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524660	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524661	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524662	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524663	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524664	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524665	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524666	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524667	GHRun1	Pre_planting	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524668	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524669	GHRun1	Pre_planting	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524670	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524671	GHRun1	Pre_planting	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524672	GHRun1	Pre_planting	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524673	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524674	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524675	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524676	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524677	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524678	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524679	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524680	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524681	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524682	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524683	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524684	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524685	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524686	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524687	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524688	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524689	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524690	FieldRun1	Rhizoplane	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524691	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524692	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524693	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524694	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524695	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524696	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524697	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524698	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524699	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524700	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524701	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524702	FieldRun1	Rhizosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524703	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524704	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524705	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524706	FieldRun1	Rhizoplane	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524707	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524708	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524709	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524710	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524711	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524712	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524713	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Arbuckle, California
+SRR1524714	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524715	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524716	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524717	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524718	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524719	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524720	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524721	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524722	FieldRun1	Rhizosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524723	FieldRun1	Rhizoplane	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524724	FieldRun1	Endosphere	Rice Paddy	1		2013-07-08	USA: California, Central Valley
+SRR1524725	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Arbuckle, California
+SRR1524726	FieldRun1	Rhizosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524727	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524728	FieldRun1	Rhizoplane	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524729	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Arbuckle, California
+SRR1524730	FieldRun1	Rhizosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524731	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524732	FieldRun1	Endosphere	Rice Paddy	2		2013-07-08	USA: California, Central Valley
+SRR1524733	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524734	FieldRun1	Rhizoplane	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524735	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Arbuckle, California
+SRR1524736	FieldRun1	Endosphere	Rice Paddy	3		2013-07-08	USA: California, Central Valley
+SRR1524737	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524738	FieldRun1	Rhizosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524739	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524740	FieldRun1	Endosphere	Rice Paddy	4		2013-07-08	USA: California, Central Valley
+SRR1524741	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Arbuckle, California
+SRR1524742	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524743	FieldRun1	Rhizosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524744	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524745	FieldRun1	Rhizoplane	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524746	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Arbuckle, California
+SRR1524747	FieldRun1	Endosphere	Rice Paddy	5		2013-07-08	USA: California, Central Valley
+SRR1524748	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524749	FieldRun1	Endosphere	Rice Paddy	6		2013-07-08	USA: California, Central Valley
+SRR1524750	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524751	FieldRun1	Rhizosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524752	FieldRun1	Rhizoplane	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524753	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Arbuckle, California
+SRR1524755	FieldRun1	Endosphere	Rice Paddy	7		2013-07-08	USA: California, Central Valley
+SRR1524756	GHRun1	Rhizoplane	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524757	FieldRun1	Rhizosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524758	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524759	FieldRun1	Rhizoplane	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524760	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524761	FieldRun1	Endosphere	Rice Paddy	8		2013-07-08	USA: California, Central Valley
+SRR1524762	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524763	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524764	GHRun	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524766	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524767	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524768	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524769	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524770	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524771	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524772	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524773	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524774	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524775	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524776	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Davis, California
+SRR1524777	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524778	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524779	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Davis, California
+SRR1524780	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524781	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524782	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Davis, California
+SRR1524783	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524784	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Davis, California
+SRR1524785	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524786	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524787	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Davis, California
+SRR1524788	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Davis, California
+SRR1524789	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524790	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Davis, California
+SRR1524791	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524792	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524793	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524794	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524795	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524796	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524797	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524798	GHRun1	Rhizosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524799	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524800	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524801	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524802	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524803	GHRun1	Rhizoplane	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524804	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524805	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524806	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524807	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524808	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524809	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524810	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524811	GHRun1	Rhizosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524812	GHRun1	Endosphere	Greenhouse Soil		Nipponebare	2013-05-06	USA: Sacramento, California
+SRR1524813	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524814	GHRun1	Rhizosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524815	GHRun1	Rhizoplane	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524816	GHRun1	Endosphere	Greenhouse Soil		M104	2013-05-06	USA: Sacramento, California
+SRR1524817	GHRun1	Rhizoplane	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524818	GHRun1	Endosphere	Greenhouse Soil		IR50	2013-05-06	USA: Sacramento, California
+SRR1524819	GHRun1	Bulk Soil	Greenhouse Soil		Soil	2013-05-06	USA: Sacramento, California
+SRR1524820	GHRun1	Rhizosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524821	GHRun1	Endosphere	Greenhouse Soil		93-11	2013-05-06	USA: Sacramento, California
+SRR1524822	GHRun1	Rhizosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524823	GHRun1	Rhizoplane	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524824	GHRun1	Endosphere	Greenhouse Soil		Glab_E	2013-05-06	USA: Sacramento, California
+SRR1524825	GHRun1	Rhizosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524826	GHRun1	Rhizoplane	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR1524827	GHRun1	Endosphere	Greenhouse Soil		Glab_B	2013-05-06	USA: Sacramento, California
+SRR2107428	JE.TC.10	Rhizosphere	Greenhouse Soil	1	M104	2013-11-03	USA: Davis, California
+SRR2107429	JE.TC.11	Rhizosphere	Greenhouse Soil	2	M104	2013-11-03	USA: Davis, California
+SRR2107430	JE.TC.12	Rhizosphere	Greenhouse Soil	3	M104	2013-11-03	USA: Davis, California
+SRR2107431	JE.TC.13	Rhizoplane	Greenhouse Soil	1	M104	2013-11-03	USA: Davis, California
+SRR2107432	JE.TC.14	Rhizoplane	Greenhouse Soil	2	M104	2013-11-03	USA: Davis, California
+SRR2107433	JE.TC.15	Rhizoplane	Greenhouse Soil	3	M104	2013-11-03	USA: Davis, California
+SRR2107434	JE.TC.16	Endosphere	Greenhouse Soil	1	M104	2013-11-03	USA: Davis, California
+SRR2107435	JE.TC.17	Endosphere	Greenhouse Soil	2	M104	2013-11-03	USA: Davis, California
+SRR2107436	JE.TC.18	Endosphere	Greenhouse Soil	3	M104	2013-11-03	USA: Davis, California
+SRR2107437	JE.TC.19	Bulk Soil	Greenhouse Soil	1	M104	2013-11-03	USA: Davis, California
+SRR2107438	JE.TC.20	Bulk Soil	Greenhouse Soil	2	M104	2013-11-03	USA: Davis, California
+SRR2107439	JE.TC.21	Bulk Soil	Greenhouse Soil	3	M104	2013-11-03	USA: Davis, California
+SRR2107440	JE.TC.22	Rhizosphere	Greenhouse Soil	1	M104	2013-11-04	USA: Davis, California
+SRR2107441	JE.TC.23	Rhizosphere	Greenhouse Soil	2	M104	2013-11-04	USA: Davis, California
+SRR2107442	JE.TC.24	Rhizosphere	Greenhouse Soil	3	M104	2013-11-04	USA: Davis, California
+SRR2107443	JE.TC.25	Rhizoplane	Greenhouse Soil	1	M104	2013-11-04	USA: Davis, California
+SRR2107444	JE.TC.26	Rhizoplane	Greenhouse Soil	2	M104	2013-11-04	USA: Davis, California
+SRR2107445	JE.TC.27	Rhizoplane	Greenhouse Soil	3	M104	2013-11-04	USA: Davis, California
+SRR2107446	JE.TC.28	Endosphere	Greenhouse Soil	1	M104	2013-11-04	USA: Davis, California
+SRR2107447	JE.TC.29	Endosphere	Greenhouse Soil	2	M104	2013-11-04	USA: Davis, California
+SRR2107448	JE.TC.30	Endosphere	Greenhouse Soil	3	M104	2013-11-04	USA: Davis, California
+SRR2107454	JE.TC.31	Bulk Soil	Greenhouse Soil	1	M104	2013-11-04	USA: Davis, California
+SRR2107455	JE.TC.32	Bulk Soil	Greenhouse Soil	2	M104	2013-11-04	USA: Davis, California
+SRR2107456	JE.TC.33	Bulk Soil	Greenhouse Soil	3	M104	2013-11-04	USA: Davis, California
+SRR2107457	JE.TC.34	Rhizosphere	Greenhouse Soil	1	M104	2013-11-05	USA: Davis, California
+SRR2107458	JE.TC.35	Rhizosphere	Greenhouse Soil	2	M104	2013-11-05	USA: Davis, California
+SRR2107459	JE.TC.36	Rhizosphere	Greenhouse Soil	3	M104	2013-11-05	USA: Davis, California
+SRR2107460	JE.TC.37	Rhizoplane	Greenhouse Soil	1	M104	2013-11-05	USA: Davis, California
+SRR2107461	JE.TC.38	Rhizoplane	Greenhouse Soil	2	M104	2013-11-05	USA: Davis, California
+SRR2107462	JE.TC.4	Endosphere	Greenhouse Soil	1	M104	2013-11-02	USA: Davis, California
+SRR2107463	JE.TC.40	Endosphere	Greenhouse Soil	2	M104	2013-11-05	USA: Davis, California
+SRR2107464	JE.TC.41	Endosphere	Greenhouse Soil	3	M104	2013-11-05	USA: Davis, California
+SRR2107465	JE.TC.42	Bulk Soil	Greenhouse Soil	1	M104	2013-11-05	USA: Davis, California
+SRR2107466	JE.TC.43	Bulk Soil	Greenhouse Soil	2	M104	2013-11-05	USA: Davis, California
+SRR2107467	JE.TC.44	Bulk Soil	Greenhouse Soil	3	M104	2013-11-05	USA: Davis, California
+SRR2107468	JE.TC.45	Rhizosphere	Greenhouse Soil	4	M104	2013-11-05	USA: Davis, California
+SRR2107469	JE.TC.46	Rhizoplane	Greenhouse Soil	4	M104	2013-11-05	USA: Davis, California
+SRR2107470	JE.TC.47	Endosphere	Greenhouse Soil	4	M104	2013-11-05	USA: Davis, California
+SRR2107471	JE.TC.48	Rhizosphere	Greenhouse Soil	1	M104	2013-11-07	USA: Davis, California
+SRR2107472	JE.TC.49	Rhizosphere	Greenhouse Soil	2	M104	2013-11-07	USA: Davis, California
+SRR2107473	JE.TC.5	Endosphere	Greenhouse Soil	2	M104	2013-11-02	USA: Davis, California
+SRR2107474	JE.TC.50	Rhizosphere	Greenhouse Soil	3	M104	2013-11-07	USA: Davis, California
+SRR2107475	JE.TC.51	Rhizoplane	Greenhouse Soil	1	M104	2013-11-07	USA: Davis, California
+SRR2107476	JE.TC.52	Rhizoplane	Greenhouse Soil	2	M104	2013-11-07	USA: Davis, California
+SRR2107477	JE.TC.53	Rhizoplane	Greenhouse Soil	3	M104	2013-11-07	USA: Davis, California
+SRR2107478	JE.TC.54	Endosphere	Greenhouse Soil	1	M104	2013-11-07	USA: Davis, California
+SRR2107479	JE.TC.55	Endosphere	Greenhouse Soil	2	M104	2013-11-07	USA: Davis, California
+SRR2107480	JE.TC.56	Endosphere	Greenhouse Soil	3	M104	2013-11-07	USA: Davis, California
+SRR2107481	JE.TC.57	Bulk Soil	Greenhouse Soil	1	M104	2013-11-07	USA: Davis, California
+SRR2107482	JE.TC.58	Bulk Soil	Greenhouse Soil	2	M104	2013-11-07	USA: Davis, California
+SRR2107483	JE.TC.59	Bulk Soil	Greenhouse Soil	3	M104	2013-11-07	USA: Davis, California
+SRR2107484	JE.TC.60	Rhizosphere	Greenhouse Soil	1	M104	2013-11-10	USA: Davis, California
+SRR2107485	JE.TC.61	Rhizosphere	Greenhouse Soil	2	M104	2013-11-10	USA: Davis, California
+SRR2107486	JE.TC.6	Endosphere	Greenhouse Soil	3	M104	2013-11-02	USA: Davis, California
+SRR2107487	JE.TC.62	Rhizosphere	Greenhouse Soil	3	M104	2013-11-10	USA: Davis, California
+SRR2107488	JE.TC.63	Rhizoplane	Greenhouse Soil	1	M104	2013-11-10	USA: Davis, California
+SRR2107489	JE.TC.64	Rhizoplane	Greenhouse Soil	2	M104	2013-11-10	USA: Davis, California
+SRR2107490	JE.TC.65	Rhizoplane	Greenhouse Soil	3	M104	2013-11-10	USA: Davis, California
+SRR2107491	JE.TC.66	Endosphere	Greenhouse Soil	1	M104	2013-11-10	USA: Davis, California
+SRR2107492	JE.TC.67	Endosphere	Greenhouse Soil	2	M104	2013-11-10	USA: Davis, California
+SRR2107493	JE.TC.68	Endosphere	Greenhouse Soil	3	M104	2013-11-10	USA: Davis, California
+SRR2107494	JE.TC.69	Bulk Soil	Greenhouse Soil	1	M104	2013-11-10	USA: Davis, California
+SRR2107495	JE.TC.7	Bulk Soil	Greenhouse Soil	1	M104	2013-11-02	USA: Davis, California
+SRR2107496	JE.TC.70	Bulk Soil	Greenhouse Soil	2	M104	2013-11-10	USA: Davis, California
+SRR2107497	JE.TC.71	Bulk Soil	Greenhouse Soil	3	M104	2013-11-10	USA: Davis, California
+SRR2107498	JE.TC.72	Rhizosphere	Greenhouse Soil	1	M104	2013-11-15	USA: Davis, California
+SRR2107499	JE.TC.73	Rhizosphere	Greenhouse Soil	2	M104	2013-11-15	USA: Davis, California
+SRR2107500	JE.TC.74	Rhizosphere	Greenhouse Soil	3	M104	2013-11-15	USA: Davis, California
+SRR2107501	JE.TC.75	Rhizoplane	Greenhouse Soil	1	M104	2013-11-15	USA: Davis, California
+SRR2107502	JE.TC.76	Rhizoplane	Greenhouse Soil	2	M104	2013-11-15	USA: Davis, California
+SRR2107503	JE.TC.77	Rhizoplane	Greenhouse Soil	3	M104	2013-11-15	USA: Davis, California
+SRR2107504	JE.TC.78	Endosphere	Greenhouse Soil	1	M104	2013-11-15	USA: Davis, California
+SRR2107505	JE.TC.79	Endosphere	Greenhouse Soil	2	M104	2013-11-15	USA: Davis, California
+SRR2107506	JE.TC.8	Bulk Soil	Greenhouse Soil	2	M104	2013-11-02	USA: Davis, California
+SRR2107507	JE.TC.80	Endosphere	Greenhouse Soil	3	M104	2013-11-15	USA: Davis, California
+SRR2110714	JE.TC.81	Bulk Soil	Greenhouse Soil	1	M104	2013-11-15	USA: Davis, California
+SRR2111742	JE.TC.82	Bulk Soil	Greenhouse Soil	2	M104	2013-11-15	USA: Davis, California
+SRR2112665	JE.TC.83	Bulk Soil	Greenhouse Soil	3	M104	2013-11-15	USA: Davis, California
+SRR2113669	JE.TC.9	Bulk Soil	Greenhouse Soil	3	M104	2013-11-02	USA: Davis, California

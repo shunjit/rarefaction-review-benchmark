@@ -1,0 +1,99 @@
+# Conda environment specification for Rarefaction Review Benchmark
+# 
+# This environment replicates the analysis environment used in:
+# "Rarefaction in QIIME 2 workflows: when it is justified for diversity,
+# when it is harmful for differential abundance, and how to report it reproducibly"
+#
+# ============================================================
+# RECOMMENDED INSTALLATION (for reproducibility)
+# ============================================================
+#
+# The analysis was performed using QIIME 2 amplicon distribution 2025.10.
+# For best reproducibility, install the official QIIME 2 distribution:
+#
+# For Apple Silicon (M1/M2/M3/M4) Macs:
+#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-osx-conda-arm64.yml
+#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-osx-conda-arm64.yml
+#   conda activate qiime2-amplicon-2025.10
+#
+# For Intel Macs:
+#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-osx-conda-x86_64.yml
+#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-osx-conda-x86_64.yml
+#   conda activate qiime2-amplicon-2025.10
+#
+# For Linux:
+#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-linux-conda-x86_64.yml
+#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-linux-conda-x86_64.yml
+#   conda activate qiime2-amplicon-2025.10
+#
+# ============================================================
+# ENVIRONMENT SPECIFICATIONS
+# ============================================================
+
+name: qiime2-amplicon-2025.10
+
+# Core software versions used in the analysis:
+#   - QIIME 2: 2025.10.1
+#   - q2-boots: 2025.10.1
+#   - Python: 3.10.14
+
+channels:
+  - https://packages.qiime2.org/qiime2/2025.10/amplicon/released
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  # Python version
+  - python=3.10.14
+  
+  # q2-boots plugin for repeated rarefaction/bootstrapping
+  # This plugin is included in the official QIIME 2 2025.10 distribution
+  # If missing, install via: pip install q2-boots
+  
+  # Data manipulation
+  - pandas>=2.0
+  - numpy>=1.24
+  - scipy>=1.10
+  
+  # Visualization
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  
+  # Data acquisition utilities
+  - wget
+  - curl
+  
+  # Optional: Jupyter for interactive analysis
+  - jupyter
+  - jupyterlab
+
+# ============================================================
+# VERIFICATION
+# ============================================================
+#
+# After installation, verify the environment:
+#
+#   qiime --version
+#   # Expected: q2cli version 2025.10.1
+#
+#   qiime boots --help
+#   # Should display q2-boots plugin help
+#
+#   python --version
+#   # Expected: Python 3.10.14
+#
+# ============================================================
+# TROUBLESHOOTING
+# ============================================================
+#
+# If q2-boots is not available after QIIME 2 installation:
+#   pip install q2-boots
+#   qiime dev refresh-cache
+#
+# If environment creation fails:
+#   1. Update conda: conda update -n base conda
+#   2. Try mamba: conda install mamba -n base -c conda-forge
+#      mamba env create -f environment.yml
+#
+# ============================================================

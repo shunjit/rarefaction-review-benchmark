@@ -1,72 +1,78 @@
 # Conda environment specification for Rarefaction Review Benchmark
 # 
 # This environment replicates the analysis environment used in:
-# "Rarefaction in QIIME 2 workflows: when it is justified for diversity,
-# when it is harmful for differential abundance, and how to report it reproducibly"
+# "Rarefaction validity is task-dependent: justified for microbiome diversity, harmful for differential abundance, reportable via a decision framework"
 #
 # ============================================================
 # RECOMMENDED INSTALLATION (for reproducibility)
 # ============================================================
 #
 # The analysis was performed using QIIME 2 amplicon distribution 2025.10.
-# For best reproducibility, install the official QIIME 2 distribution:
+# For best reproducibility, install the official QIIME 2 distribution
+# rather than resolving this environment.yml directly.
 #
-# For Apple Silicon (M1/M2/M3/M4) Macs:
-#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-osx-conda-arm64.yml
-#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-osx-conda-arm64.yml
+# For Apple Silicon (M1/M2/M3/M4) Macs — Rosetta 2 emulation:
+#   CONDA_SUBDIR=osx-64 conda env create \
+#     --name qiime2-amplicon-2025.10 \
+#     --file https://raw.githubusercontent.com/qiime2/distributions/refs/heads/dev/2025.10/amplicon/released/qiime2-amplicon-macos-latest-conda.yml
 #   conda activate qiime2-amplicon-2025.10
+#   conda config --env --set subdir osx-64
 #
 # For Intel Macs:
-#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-osx-conda-x86_64.yml
-#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-osx-conda-x86_64.yml
+#   conda env create \
+#     --name qiime2-amplicon-2025.10 \
+#     --file https://raw.githubusercontent.com/qiime2/distributions/refs/heads/dev/2025.10/amplicon/released/qiime2-amplicon-macos-latest-conda.yml
 #   conda activate qiime2-amplicon-2025.10
 #
-# For Linux:
-#   wget https://data.qiime2.org/distro/amplicon/qiime2-amplicon-2025.10-py310-linux-conda-x86_64.yml
-#   conda env create -n qiime2-amplicon-2025.10 --file qiime2-amplicon-2025.10-py310-linux-conda-x86_64.yml
+# For Linux / WSL:
+#   conda env create \
+#     --name qiime2-amplicon-2025.10 \
+#     --file https://raw.githubusercontent.com/qiime2/distributions/refs/heads/dev/2025.10/amplicon/released/qiime2-amplicon-ubuntu-latest-conda.yml
 #   conda activate qiime2-amplicon-2025.10
 #
 # ============================================================
 # ENVIRONMENT SPECIFICATIONS
 # ============================================================
+#
+# NOTE: This file documents the analysis environment but is NOT intended
+# for direct installation via "conda env create -f environment.yml".
+# Use the official QIIME 2 specification files above instead, which
+# contain pinned versions of all ~200 transitive dependencies.
+# This file serves as a human-readable record of the key packages.
 
 name: qiime2-amplicon-2025.10
 
 # Core software versions used in the analysis:
-#   - QIIME 2: 2025.10.1
-#   - q2-boots: 2025.10.1
+#   - QIIME 2 amplicon distribution: 2025.10
+#   - q2cli: 2025.10.1
+#   - q2-boots: 2025.10.1 (included in the official distribution)
+#   - q2-composition: 2025.10.1 (ANCOM-BC2 via QIIME 2)
 #   - Python: 3.10.14
 
 channels:
   - https://packages.qiime2.org/qiime2/2025.10/amplicon/released
   - conda-forge
   - bioconda
-  - defaults
 
 dependencies:
-  # Python version
+  # Python version (pinned to match official distribution)
   - python=3.10.14
   
-  # q2-boots plugin for repeated rarefaction/bootstrapping
-  # This plugin is included in the official QIIME 2 2025.10 distribution
-  # If missing, install via: pip install q2-boots
+  # QIIME 2 amplicon distribution (installs all built-in plugins)
+  - qiime2-amplicon
   
-  # Data manipulation
+  # Additional analysis dependencies
   - pandas>=2.0
   - numpy>=1.24
   - scipy>=1.10
   
-  # Visualization
+  # Visualization (figure generation scripts)
   - matplotlib>=3.7
   - seaborn>=0.12
   
   # Data acquisition utilities
   - wget
   - curl
-  
-  # Optional: Jupyter for interactive analysis
-  - jupyter
-  - jupyterlab
 
 # ============================================================
 # VERIFICATION
@@ -80,8 +86,21 @@ dependencies:
 #   qiime boots --help
 #   # Should display q2-boots plugin help
 #
+#   qiime composition ancombc --help
+#   # Should display ANCOM-BC2 help (via q2-composition)
+#
 #   python --version
 #   # Expected: Python 3.10.14
+#
+# ============================================================
+# APPLE SILICON NOTE
+# ============================================================
+#
+# As of 2025.10, QIIME 2 does not provide native ARM64 builds.
+# Apple Silicon Macs (M1/M2/M3/M4) run QIIME 2 via Rosetta 2
+# emulation (x86_64). The CONDA_SUBDIR=osx-64 prefix and the
+# subsequent "conda config --env --set subdir osx-64" command
+# are both required to ensure consistent package resolution.
 #
 # ============================================================
 # TROUBLESHOOTING
@@ -94,6 +113,7 @@ dependencies:
 # If environment creation fails:
 #   1. Update conda: conda update -n base conda
 #   2. Try mamba: conda install mamba -n base -c conda-forge
-#      mamba env create -f environment.yml
+#      mamba env create --name qiime2-amplicon-2025.10 \
+#        --file <official-yml-url>
 #
 # ============================================================

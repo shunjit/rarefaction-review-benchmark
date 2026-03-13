@@ -25,9 +25,7 @@ repository-code: "https://github.com/shunjit/rarefaction-review-benchmark"
 url: "https://github.com/shunjit/rarefaction-review-benchmark"
 
 abstract: >-
-  Reproducibility package for the manuscript "Rarefaction in QIIME 2 workflows:
-  when it is justified for diversity, when it is harmful for differential
-  abundance, and how to report it reproducibly". This repository contains all
+  Reproducibility package for the manuscript "Rarefaction validity is task-dependent: justified for microbiome diversity, harmful for differential abundance, reportable via a decision framework". This repository contains all
   scripts, metadata, and documentation required to reproduce the benchmark
   analyses evaluating rarefaction practices for microbiome diversity analysis
   using three public 16S rRNA amplicon datasets.
@@ -56,9 +54,7 @@ preferred-citation:
       given-names: Shunji
       orcid: "https://orcid.org/0009-0003-8042-9869"
   title: >-
-    Rarefaction in QIIME 2 workflows: when it is justified for diversity,
-    when it is harmful for differential abundance, and how to report it
-    reproducibly
+    Rarefaction validity is task-dependent: justified for microbiome diversity, harmful for differential abundance, reportable via a decision framework
   journal: "ISME Communications"
   year: 2026
   # The following fields should be updated upon publication:
@@ -109,4 +105,4 @@ references:
     year: 2025
     volume: "14"
     start: "87"
-    doi: "10.12688/f1000research.157758.1"
+    doi: "10.12688/f1000research.156295.1"

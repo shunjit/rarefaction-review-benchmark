@@ -1,0 +1,2 @@
+theta_hat	theta_dm_mle	calibration_target	target_zf	achieved_zf	depth_dc	K	n_samples	n_samples_zf	read_coverage_topK	fit_seed	gen_seed
+52.6539481983284	86.2897219645649	zero_fraction	0.563560606060606	0.565361952861953	5000	300	133	132	0.441468048206232	20260811	20260812

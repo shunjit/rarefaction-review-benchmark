@@ -1,0 +1,8 @@
+B-1 diff_robust re-aggregation (CG-05, GM-01) — no refit
+generated: 2026-08-17 04:25:11 JST
+script: b1_diff_robust.R
+dsim run: dsim_a2_nsens_v1 (200 rep files, 2 cells)
+dreal run: dreal_a1_x25_v1 (100 rep files, 1 cells)
+rules: default = detected (q<0.05); diff_robust = detected & passed_ss
+scope: method = ancombc2, condition in {raw, rarefied} (boots has pseudo_sens=FALSE by design)
+self-check: default-rule metrics reproduced the frozen run summaries to < 1e-9

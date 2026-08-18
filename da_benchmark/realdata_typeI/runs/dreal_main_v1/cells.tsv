@@ -1,0 +1,3 @@
+CELL_INDEX	CELL_ID	DATASET	STRAT_COL	STRAT_MODE	FILTER_VAL	SUBSAMPLE_FRAC	B	REPS
+1	rice_strat	rice	compartment	stratified	NA	0.8	0	100
+2	rice_rhizo	rice	compartment	single	Rhizoplane	0.8	0	100

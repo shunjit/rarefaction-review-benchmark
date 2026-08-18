@@ -1,0 +1,17 @@
+cell_id	condition	scenario	n_reps	tested_n_median	det_median	det_q25	det_q75	det_min	det_max	any_detection_rate	rule
+rice_rhizo	rarefied	real_depth	100	2904	1161	1116	1218.25	1039	1639	1	default
+rice_rhizo	rarefied	real_depth	100	2904	122	105.75	141	52	233	1	diff_robust
+rice_rhizo	rarefied	real_perm	100	2904	989	953	1039.25	874	1357	1	default
+rice_rhizo	rarefied	real_perm	100	2904	56	48	71	25	194	1	diff_robust
+rice_rhizo	raw	real_depth	100	2904	1484	1450.75	1534	1341	1608	1	default
+rice_rhizo	raw	real_depth	100	2904	140.5	122.75	161.75	85	389	1	diff_robust
+rice_rhizo	raw	real_perm	100	2904	1144.5	1094.25	1206.75	997	1397	1	default
+rice_rhizo	raw	real_perm	100	2904	225	198.5	257.25	111	357	1	diff_robust
+rice_strat	rarefied	real_depth	100	2804	1588	1559.75	1654	1503	1762	1	default
+rice_strat	rarefied	real_depth	100	2804	84.5	73.75	163.25	49	278	1	diff_robust
+rice_strat	rarefied	real_perm	100	2804	1378	1346.75	1411.25	1280	1501	1	default
+rice_strat	rarefied	real_perm	100	2804	73.5	63	191	39	301	1	diff_robust
+rice_strat	raw	real_depth	100	2804	1696.5	1671.5	1726.25	1565	1837	1	default
+rice_strat	raw	real_depth	100	2804	194.5	182	209.75	151	245	1	diff_robust
+rice_strat	raw	real_perm	100	2804	1238	1193	1293	1006	1473	1	default
+rice_strat	raw	real_perm	100	2804	306.5	271	340.25	201	415	1	diff_robust

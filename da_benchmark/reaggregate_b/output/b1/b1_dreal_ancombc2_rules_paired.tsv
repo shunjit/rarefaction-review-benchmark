@@ -1,0 +1,9 @@
+cell_id	condition	n_pairs	diff_median	diff_q25	diff_q75	frac_pairs_depth_higher	frac_pairs_equal	rule
+rice_rhizo	rarefied	100	173	129.5	229	0.99	0	default
+rice_rhizo	rarefied	100	62	28	82.25	0.84	0.01	diff_robust
+rice_rhizo	raw	100	345	277.5	403.25	1	0	default
+rice_rhizo	raw	100	-85	-111	-44	0.06	0.01	diff_robust
+rice_strat	rarefied	100	211.5	173.75	279.25	1	0	default
+rice_strat	rarefied	100	5.5	-17.25	20	0.55	0.02	diff_robust
+rice_strat	raw	100	453.5	398.5	515.25	1	0	default
+rice_strat	raw	100	-107	-152.25	-68.75	0.02	0.01	diff_robust

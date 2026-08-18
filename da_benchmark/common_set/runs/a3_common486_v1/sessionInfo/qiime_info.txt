@@ -1,0 +1,46 @@
+System versions
+Python version: 3.10.14
+QIIME 2 release: 2025.10
+QIIME 2 version: 2025.10.1
+q2cli version: 2025.10.1
+
+Installed plugins
+alignment: 2025.10.0
+boots: 2025.10.1
+composition: 2025.10.0
+cutadapt: 2025.10.0
+dada2: 2025.10.0
+deblur: 2025.10.0
+demux: 2025.10.0
+diversity: 2025.10.1
+diversity-lib: 2025.10.0
+emperor: 2025.10.0
+feature-classifier: 2025.10.0
+feature-table: 2025.10.0
+fondue: 2025.10.0
+fragment-insertion: 2025.10.0
+kmerizer: 2025.10.1
+longitudinal: 2025.10.0
+metadata: 2025.10.0
+phylogeny: 2025.10.0
+quality-control: 2025.10.0
+quality-filter: 2025.10.0
+rescript: 2025.10.1
+sample-classifier: 2025.10.0
+stats: 2025.10.0
+taxa: 2025.10.0
+types: 2025.10.0
+vizard: 2025.10.0
+vsearch: 2025.10.0
+
+Application config directory
+/Users/tokoro/miniforge3/envs/qiime2-amplicon-2025.10/var/q2cli
+
+Config
+Config Source: /Users/tokoro/miniforge3/envs/qiime2-amplicon-2025.10/etc/qiime2_config.toml
+
+Getting help
+To find help and learning resources, visit https://qiime2.org.
+To get help with configuring and/or understanding QIIME 2 parallelization, visit https://use.qiime2.org/en/latest/references/parallel-configuration.html
+
+

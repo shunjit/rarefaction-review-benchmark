@@ -1,0 +1,2 @@
+CELL_INDEX	CELL_ID	DATASET	STRAT_COL	STRAT_MODE	FILTER_VAL	SUBSAMPLE_FRAC	B	REPS
+3	rice_strat_x25	rice	compartment	stratified_extreme	0.25	0.8	0	1

@@ -1,0 +1,4 @@
+cell_index	cell_id	scenario	K	n_per_group	rho	d0	theta	fc	da_frac	B	reps
+1	smoke_null_r1	null	300	20	1	10000	cal	1	0	50	3
+2	smoke_null_r100	null	300	20	100	10000	cal	1	0	50	3
+3	smoke_spike_r100_f3	spike	300	20	100	10000	cal	3	0.10	50	2

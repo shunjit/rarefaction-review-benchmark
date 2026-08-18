@@ -1,0 +1,49 @@
+R version 4.5.3 (2026-03-11)
+Platform: aarch64-apple-darwin20.0.0
+Running under: macOS Tahoe 26.6.1
+
+Matrix products: default
+BLAS/LAPACK: /Users/tokoro/miniforge3/envs/ancombc_native/lib/libopenblas.0.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] C
+
+time zone: Asia/Tokyo
+tzcode source: system (macOS)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] maaslin3_1.2.0
+
+loaded via a namespace (and not attached):
+ [1] yulab.utils_0.2.4               rappdirs_0.3.4                 
+ [3] generics_0.1.4                  tidyr_1.3.2                    
+ [5] SparseArray_1.10.8              lattice_0.22-9                 
+ [7] digest_0.6.39                   magrittr_2.0.5                 
+ [9] grid_4.5.3                      plyr_1.8.9                     
+[11] jsonlite_2.0.0                  Matrix_1.7-5                   
+[13] ape_5.8-1                       optparse_1.8.2                 
+[15] survival_3.8-9                  purrr_1.2.2                    
+[17] SingleCellExperiment_1.32.0     Biostrings_2.78.0              
+[19] codetools_0.2-20                lazyeval_0.2.3                 
+[21] abind_1.4-8                     cli_3.6.6                      
+[23] rlang_1.3.0                     crayon_1.5.3                   
+[25] XVector_0.50.0                  Biobase_2.70.0                 
+[27] tidytree_0.4.8                  splines_4.5.3                  
+[29] DelayedArray_0.36.0             S4Arrays_1.10.1                
+[31] tools_4.5.3                     parallel_4.5.3                 
+[33] BiocParallel_1.44.0             dplyr_1.2.1                    
+[35] SummarizedExperiment_1.40.0     BiocGenerics_0.56.0            
+[37] vctrs_0.7.3                     R6_2.6.1                       
+[39] matrixStats_1.5.0               stats4_4.5.3                   
+[41] lifecycle_1.0.5                 Seqinfo_1.0.0                  
+[43] S4Vectors_0.48.0                fs_2.1.0                       
+[45] IRanges_2.44.0                  treeio_1.34.0                  
+[47] pkgconfig_2.0.3                 TreeSummarizedExperiment_2.18.0
+[49] pillar_1.11.1                   glue_1.8.1                     
+[51] Rcpp_1.1.2                      tibble_3.3.1                   
+[53] GenomicRanges_1.62.1            tidyselect_1.2.1               
+[55] MatrixGenerics_1.22.0           nlme_3.1-170                   
+[57] compiler_4.5.3                 

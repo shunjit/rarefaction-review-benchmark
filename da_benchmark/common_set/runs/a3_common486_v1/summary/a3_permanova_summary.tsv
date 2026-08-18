@@ -1,0 +1,17 @@
+metric	depth	series	n	groups	pseudo_F	p_value	r2_identity
+weighted_unifrac	10000	common486	486	4	164.358436	0.001	0.506
+unweighted_unifrac	10000	common486	486	4	30.030219	0.001	0.157
+weighted_unifrac	10000	phase1	492	4	165.488004	0.001	0.504
+unweighted_unifrac	10000	phase1	492	4	29.796239	0.001	0.155
+weighted_unifrac	15000	common486	486	4	165.398859	0.001	0.507
+unweighted_unifrac	15000	common486	486	4	29.526241	0.001	0.155
+weighted_unifrac	15000	phase1	490	4	165.015866	0.001	0.505
+unweighted_unifrac	15000	phase1	490	4	29.529077	0.001	0.154
+weighted_unifrac	20000	common486	486	4	165.257649	0.001	0.507
+unweighted_unifrac	20000	common486	486	4	29.130219	0.001	0.153
+weighted_unifrac	20000	phase1	488	4	164.840491	0.001	0.505
+unweighted_unifrac	20000	phase1	488	4	29.187046	0.001	0.153
+weighted_unifrac	22714	common486	486	4	165.657709	0.001	0.508
+unweighted_unifrac	22714	common486	486	4	28.999728	0.001	0.153
+weighted_unifrac	22714	phase1	486	4	165.417978	0.001	0.507
+unweighted_unifrac	22714	phase1	486	4	29.019046	0.001	0.153

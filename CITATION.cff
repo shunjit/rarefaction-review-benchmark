@@ -25,10 +25,12 @@ repository-code: "https://github.com/shunjit/rarefaction-review-benchmark"
 url: "https://github.com/shunjit/rarefaction-review-benchmark"
 
 abstract: >-
-  Reproducibility package for the manuscript "Rarefaction validity is task-dependent: justified for microbiome diversity, harmful for differential abundance, reportable via a decision framework". This repository contains all
+  Reproducibility package for the manuscript "Rarefaction validity is task-dependent: justified for microbiome diversity, harmful for differential abundance, reportable via a decision framework". This repository contains the
   scripts, metadata, and documentation required to reproduce the benchmark
   analyses evaluating rarefaction practices for microbiome diversity analysis
-  using three public 16S rRNA amplicon datasets.
+  using three public 16S rRNA amplicon datasets, together with the code,
+  frozen run configurations, and summary outputs of the depth-confounding
+  differential abundance benchmark introduced in revision.
 
 keywords:
   - microbiome
@@ -36,15 +38,16 @@ keywords:
   - QIIME2
   - 16S rRNA
   - diversity analysis
+  - differential abundance
   - reproducibility
   - benchmark
 
 license: MIT
 
 # NOTE: Update version and date-released upon paper acceptance
-version: "1.0.0"
+version: "1.1.0"
 
-date-released: "2026-02-02"
+date-released: "2026-08-19"
 
 # Preferred citation for the manuscript
 preferred-citation:

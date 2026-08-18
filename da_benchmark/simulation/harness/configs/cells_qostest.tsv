@@ -1,0 +1,2 @@
+cell_index	cell_id	scenario	K	n_per_group	rho	d0	theta	fc	da_frac	B	reps
+95	qos_null_r100	null	300	20	100	10000	cal	1	0	5	1

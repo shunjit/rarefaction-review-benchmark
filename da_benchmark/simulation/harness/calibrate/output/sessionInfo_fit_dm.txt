@@ -1,0 +1,23 @@
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+Running under: macOS 26.6.1
+
+Matrix products: default
+BLAS/LAPACK: /Users/tokoro/miniforge3/envs/qiime2-amplicon-2025.10/lib/libopenblasp-r0.3.30.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] C
+
+time zone: Asia/Tokyo
+tzcode source: internal
+
+attached base packages:
+[1] stats4    stats     graphics  grDevices utils     datasets  methods  
+[8] base     
+
+other attached packages:
+[1] DirichletMultinomial_1.44.0 IRanges_2.36.0             
+[3] S4Vectors_0.40.2            BiocGenerics_0.48.1        
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3

@@ -1,0 +1,10 @@
+method	condition	n_fits	sec_median	sec_mean	sec_total
+ancombc2	boots	10000	12.889	12.779915	127799.15
+ancombc2	rarefied	100	26.26	27.22042	2722.042
+ancombc2	raw	100	38.8855	38.95148	3895.148
+maaslin3	boots	10000	7.994	7.8737962	78737.9620000003
+maaslin3	rarefied	100	6.7885	6.82233	682.233
+maaslin3	raw	100	8.5715	8.63756	863.756
+wilcoxon	boots	10000	0.112	0.113718	1137.18000000001
+wilcoxon	rarefied	100	0.1735	0.1738	17.38
+wilcoxon	raw	100	0.552	0.55882	55.882

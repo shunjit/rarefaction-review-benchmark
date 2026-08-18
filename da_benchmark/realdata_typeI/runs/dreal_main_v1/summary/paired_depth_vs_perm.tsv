@@ -1,0 +1,17 @@
+cell_id	method	condition	n_pairs	diff_median	diff_q25	diff_q75	frac_pairs_depth_higher	frac_pairs_equal
+rice_rhizo	ancombc2	rarefied	100	173	129.5	229	0.99	0
+rice_rhizo	ancombc2	raw	100	345	277.5	403.25	1	0
+rice_rhizo	maaslin3	rarefied	100	2.5	1	6	0.79	0.08
+rice_rhizo	maaslin3	raw	100	8	3.75	16	0.99	0.01
+rice_rhizo	maaslin3_prev	rarefied	100	3.5	1	8	0.89	0.11
+rice_rhizo	maaslin3_prev	raw	100	27	13.75	48	1	0
+rice_rhizo	wilcoxon	rarefied	100	24.5	7	58.25	1	0
+rice_rhizo	wilcoxon	raw	100	207	113	370.25	1	0
+rice_strat	ancombc2	rarefied	100	211.5	173.75	279.25	1	0
+rice_strat	ancombc2	raw	100	453.5	398.5	515.25	1	0
+rice_strat	maaslin3	rarefied	100	9	4	42	0.94	0.06
+rice_strat	maaslin3	raw	100	127.5	111.75	145.25	1	0
+rice_strat	maaslin3_prev	rarefied	100	46	17.5	235.75	0.99	0.01
+rice_strat	maaslin3_prev	raw	100	523.5	466.5	590.25	1	0
+rice_strat	wilcoxon	rarefied	100	207.5	130.5	370.5	0.99	0.01
+rice_strat	wilcoxon	raw	100	610.5	550.5	704.25	1	0

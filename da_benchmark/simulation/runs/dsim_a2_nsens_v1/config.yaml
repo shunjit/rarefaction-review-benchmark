@@ -1,0 +1,12 @@
+run_id: dsim_a2_nsens_v1
+created_utc: 2026-08-16T04:17:06Z
+design: D_HARNESS_DESIGN.md v2 (2026-08-11)
+base_seed: 20260811
+pseudo_sens: TRUE
+cells: cells.tsv (frozen copy in this directory)
+seed_hierarchy: "dataset = base + cell_index*1e7 + rep*1e3; +901 single rarefaction; +1..B boots; +903 method"
+prefilter: "prevalence >= 0.10 on the raw table; intention-to-test set shared by all arms"
+environments:
+  ancombc_rscript: /Users/tokoro/miniforge3/envs/ancombc_native/bin/Rscript
+  maaslin3_rscript: /Users/tokoro/miniforge3/envs/maaslin3_env/bin/Rscript
+host: tokorotoshiyukinoiMac

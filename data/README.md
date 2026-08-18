@@ -34,8 +34,9 @@ https://www.ebi.ac.uk/ena/browser/view/{ACCESSION}
 The recommended method is to use the provided download script:
 
 ```bash
-# From repository root directory
-bash scripts/01_download_data.sh
+# From repository root directory (see script/run_with_base_dir.sh to
+# redirect the download target to your own data root)
+BASE_DIR=/path/to/your/data_root bash script/run_with_base_dir.sh 01_download_data.sh
 ```
 
 This script will:

@@ -1,6 +1,26 @@
 # QIIME 2 Provenance Documentation
 
-This document explains how QIIME 2's built-in provenance tracking system supports the reproducibility of this analysis.
+This document explains how QIIME 2's built-in provenance tracking system supports the reproducibility of this analysis, and states exactly which primary QIIME 2 outputs are archived in this repository.
+
+---
+
+## Archived Primary Outputs in This Repository
+
+The complete set of intermediate QIIME 2 artifacts for the three datasets is ~15 GB and is not distributable in a repository; every artifact is regenerable from the archived scripts, pinned environment, and fixed seeds (see the repository README). What **is** archived here is the primary evidence for the manuscript's central beta-diversity stability claim (Table 2, Rice; Supplementary Table S1 (D)): the PERMANOVA visualizations for the Rice dataset at all four sensitivity-analysis rarefaction depths.
+
+`rice_sensitivity_permanova/depth_{10000,15000,20000,22714}/permanova_wunifrac_compartment.qzv`
+(weighted UniFrac, compartment, 999 permutations):
+
+| Depth | Samples (n) | pseudo-F | R² | Artifact UUID | sha256 |
+|---|---|---|---|---|---|
+| 10,000 | 492 | 165.488004 | 0.504 | `8add901a-626a-4867-81a7-e7484661a139` | `84d79258b516…c9f7` |
+| 15,000 | 490 | 165.015866 | 0.505 | `270caebf-55d9-4ce2-8298-d796890ebd0c` | `1acea25bc60a…6ab1` |
+| 20,000 | 488 | 164.840491 | 0.505 | `ad70edf2-a284-4e29-bca3-324052df1e03` | `95eb02b16e8b…efbe` |
+| 22,714 | 486 | 165.417978 | 0.507 | `00fe4f4d-3595-4b51-a8a1-92ceb60f2058` | `b1fbeac8d19c…50f4` |
+
+(R² = F·(k−1) / (F·(k−1) + N−k) with k = 4 compartments; full 64-character checksums are reproducible with `shasum -a 256`.)
+
+Each file can be dropped onto [view.qiime2.org](https://view.qiime2.org) to inspect the full computational lineage — input table checksums, rarefaction seed and depth, distance metric, software versions, and timestamps — which is what makes these four files sufficient anchors for third-party verification: the embedded provenance ties them back to the public FASTQ accessions through every intermediate step.
 
 ---
 
